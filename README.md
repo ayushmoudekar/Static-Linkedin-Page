@@ -11,4 +11,4 @@ Project OverView : Static LinkedIn Page
 
 Technology Used : HTML & CSS
 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/Static-Linkedin-Page/blob/59cf24cdca2ce3efa82d1f606235ef4a2e9a5c72/Output/Output.png)
